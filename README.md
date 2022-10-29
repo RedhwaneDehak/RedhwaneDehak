@@ -63,16 +63,12 @@
 
 
 ## Github Stats 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=RedhwaneDehak&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=sRedhwaneDehak&show_icons=true&theme=radical)
-<br/>  
+<br/>
 
-  
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=RedhwaneDehak&show_icons=true&theme=onedark)
+![github stats](https://github-readme-stats.vercel.app/api?username=RedhwaneDehak&show_icons=true&theme=onedark)
 
-<br/>  
-
-  
-
+<br/>
 <br/>  
 
 <div align="center">
