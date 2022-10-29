@@ -63,8 +63,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=RedhwaneDehak&show_icons=true&count_private=true&hide_border=true" align="left" /> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedhwaneDehak&theme=onedark_icons=true)
+<img src="(https://github-readme-stats.vercel.app/api?username=RedhwaneDehak&theme=onedark_icons=true)" align="left" /> 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedhwaneDehak&hide_border=true&layout=compact" align="center" /></div>  
 
