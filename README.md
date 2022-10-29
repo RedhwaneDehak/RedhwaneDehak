@@ -5,7 +5,9 @@
 </div>  
   
 ### Hi there, I'm Redhwane! 👋
-## **<div align="right">I am a Frontend Developer 👨‍💻</div>**  
+## **<div align="right">
+  Hi there, I'm Redhwane! 👋
+  I am a Frontend Developer 👨‍💻</div>**  
   
 
 - #### 🔍 I’m currently looking for a job   
