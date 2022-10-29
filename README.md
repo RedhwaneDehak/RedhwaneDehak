@@ -62,11 +62,9 @@
 <br/>  
 
 
-## Github Stats  
-<img src="(https://github-readme-stats.vercel.app/api?username=RedhwaneDehak&theme=onedark_icons=true)" align="left" /> 
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedhwaneDehak&hide_border=true&layout=compact" align="center" /></div>  
-
+## Github Stats 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=RedhwaneDehak&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=sRedhwaneDehak&show_icons=true&theme=radical)
 <br/>  
 
   
