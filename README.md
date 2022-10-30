@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://github.com/RedhwaneDehak/RedhwaneDehak/blob/main/Redhwane%20Dehak.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/RedhwaneDehak/RedhwaneDehak/blob/main/Redhwane%20Dehak%20(2).png?raw=true" align="center" style="width: 100%" />
 </div>  
   
 ### Hi there, I'm Redhwane! 👋
