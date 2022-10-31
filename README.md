@@ -1,8 +1,7 @@
 
 
 <div align="center">
-<img src="https://github.com/RedhwaneDehak/RedhwaneDehak/blob/main/Redhwane%20Dehak%20(2).png?raw=true" align="center" style="width: 100%" />
-</div>  
+<img src="https://github.com/RedhwaneDehak/RedhwaneDehak/blob/main/github-banner.png?raw=true" align="center" style="width: 100%" /></div>  
   
 ### Hi there, I'm Redhwane! 👋
 ## **<div align="left">I am a Frontend Developer 👨‍💻</div>**  
